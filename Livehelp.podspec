@@ -15,7 +15,7 @@ Pod::Spec.new do |spec|
 
   spec.homepage     = "https://github.com/highras/Livehelp"
   spec.license      = "MIT"
-  spec.author             = { "highras" => "https://github.com/highras/livehelp" }
+  spec.author             = { "zsl" => "https://github.com/highras/livehelp" }
   
   spec.source       = { :git => "https://github.com/highras/Livehelp.git", :tag => spec.version }
 
