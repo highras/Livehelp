@@ -13,11 +13,11 @@ Pod::Spec.new do |spec|
                    DESC
 
 
-  spec.homepage     = "https://github.com/highras/livehelp"
+  spec.homepage     = "https://github.com/highras/Livehelp"
   spec.license      = "MIT"
   spec.author             = { "highras" => "https://github.com/highras/livehelp" }
   
-  spec.source       = { :git => "https://github.com/highras/livehelp.git", :tag => spec.version }
+  spec.source       = { :git => "https://github.com/highras/Livehelp.git", :tag => spec.version }
 
   spec.requires_arc = true
 
